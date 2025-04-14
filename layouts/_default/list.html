@@ -1,0 +1,11 @@
+<!-- layouts/_default/list.html -->
+{{ define "main" }}
+  <main>
+    <h1>{{ .Title }}</h1>
+    <div>{{ .Content }}</div>
+
+    {{ range .Pages }}
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    {{ end }}
+  </main>
+{{ end }}
