@@ -1,4 +1,4 @@
-baseURL = "https://jeremy-joo.github.io/TechBlogRepo/"
+baseURL = "https://jeremy-joo.github.io/TechBlog/"
 languageCode = "ko"
 title = "JINHO JOO의 블로그"
 theme = "dark"  # 사용 중인 테마 이름
