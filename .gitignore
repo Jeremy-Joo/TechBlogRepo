@@ -13,5 +13,5 @@ package-lock.json
 /.vscode
 
 # this is a theme, we don't need these files
-/content
 /themes
+add_missing_sources.bat
